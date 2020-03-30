@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5294e5f-3877-41f2-90d5-bf1f54c60095" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AB_InsertExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AB_InsertExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AC_FindExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AC_FindExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AD_UpdateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AD_UpdateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AE_AggregateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AE_AggregateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AF_CreateIndexExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/midb/AF_CreateIndexExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZAUxMtjxqFTUc4pwrxP0EyyAHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RedisAPI" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.B_Consultas">
+    <configuration name="AC_FindExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.midb.AC_FindExample" />
+      <module name="mongodbapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.midb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AD_UpdateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.midb.AD_UpdateExample" />
+      <module name="mongodbapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.midb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AE_AggregateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.midb.AE_AggregateExample" />
+      <module name="mongodbapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.midb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AF_CreateIndexExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.midb.AF_CreateIndexExample" />
+      <module name="mongodbapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.midb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_Consultas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.midb.B_Consultas" />
+      <module name="mongodbapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.midb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B_Consultas" />
+        <item itemvalue="Application.AE_AggregateExample" />
+        <item itemvalue="Application.AD_UpdateExample" />
+        <item itemvalue="Application.AF_CreateIndexExample" />
+        <item itemvalue="Application.AC_FindExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5294e5f-3877-41f2-90d5-bf1f54c60095" name="Default Changelist" comment="" />
+      <created>1584281638007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584281638007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584635958935">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1584635958935" />
+    <state width="1804" height="518" key="GridCell.Tab.0.bottom" timestamp="1584715520847">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="518" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584715520847" />
+    <state width="1804" height="518" key="GridCell.Tab.0.center" timestamp="1584715520835">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="518" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584715520835" />
+    <state width="1804" height="518" key="GridCell.Tab.0.left" timestamp="1584715520835">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="518" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584715520835" />
+    <state width="1804" height="518" key="GridCell.Tab.0.right" timestamp="1584715520837">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="518" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584715520837" />
+    <state width="1804" height="386" key="GridCell.Tab.1.bottom" timestamp="1584631943680">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="386" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584631943680" />
+    <state width="1804" height="386" key="GridCell.Tab.1.center" timestamp="1584631943674">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="386" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584631943674" />
+    <state width="1804" height="386" key="GridCell.Tab.1.left" timestamp="1584631943674">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="386" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584631943674" />
+    <state width="1804" height="386" key="GridCell.Tab.1.right" timestamp="1584631943675">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="386" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584631943675" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584799635848">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1584799635848" />
+  </component>
+</project>
